@@ -9,6 +9,6 @@ commit c61176a13984a1745cbf9d033e57fb0f792789d0
 Author: Pe4alka <andrijspit@gmail.com>
 Date:   Mon Apr 3 20:25:32 2023 +0300
 
-    Lab_2: Додано файл README.md
+Lab_2: Додано файл README.md
     
 Lab_2: Додано хеш попереднього коміту
