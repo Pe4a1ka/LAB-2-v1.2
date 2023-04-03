@@ -10,4 +10,5 @@ Author: Pe4alka <andrijspit@gmail.com>
 Date:   Mon Apr 3 20:25:32 2023 +0300
 
     Lab_2: Додано файл README.md
-
+    
+Lab_2: Додано хеш попереднього коміту
